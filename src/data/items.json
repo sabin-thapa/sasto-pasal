@@ -20,7 +20,19 @@
   {
     "id": 4,
     "name": "Phone",
-    "price": 9.99,
+    "price": 299.99,
     "imgUrl": "/images/phone.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Airpods",
+    "price": 49.99,
+    "imgUrl": "/images/airpods.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chanel Perfume",
+    "price": 9.99,
+    "imgUrl": "/images/chanel.jpg"
   }
 ]

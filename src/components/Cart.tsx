@@ -1,4 +1,4 @@
-import { Offcanvas, Stack } from "react-bootstrap";
+import { Button, Offcanvas, Stack } from "react-bootstrap";
 import { useShoppingCart } from "../context/CartContext";
 import { currencyFormatter } from "../utils/currencyFormatter";
 import { CartItem } from "./CartItem";
@@ -29,6 +29,10 @@ export function Cart({ isOpen }: ShoppingCartProps) {
               }, 0)
             )}
           </div>
+          <Button variant="outline-success" className="w-100">
+            {" "}
+            Checkout
+          </Button>
         </Stack>
       </Offcanvas.Body>
     </Offcanvas>
