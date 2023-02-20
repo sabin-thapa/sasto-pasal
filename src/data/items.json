@@ -7,19 +7,19 @@
   },
   {
     "id": 2,
-    "name": "Book",
+    "name": "Motorbike",
     "price": 19999,
     "imgUrl": "/images/bike.jpg"
   },
   {
     "id": 3,
-    "name": "Book",
+    "name": "Laptop",
     "price": 9.99,
     "imgUrl": "/images/laptop.jpg"
   },
   {
     "id": 4,
-    "name": "Book",
+    "name": "Phone",
     "price": 9.99,
     "imgUrl": "/images/phone.jpg"
   }
