@@ -26,12 +26,12 @@ const aboutItems = [
 export const About = () => {
   return (
     <div>
-      <h5 style={{ paddingTop: "2rem" }}>
+      <p style={{ paddingTop: "2rem" }}>
         Hamro Pasal is a simple store(e-commerce applicaion) build using the
         following:
-      </h5>
+      </p>
       <Container style={{ marginTop: "10rem" }}>
-        <Row>
+        <Row className="text-center">
           <Col md>
             {aboutItems.map((item) => (
               <img
