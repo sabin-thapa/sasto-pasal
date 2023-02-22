@@ -27,7 +27,7 @@ export const About = () => {
   return (
     <div>
       <p style={{ paddingTop: "2rem" }}>
-        Hamro Pasal is a simple store(e-commerce applicaion) build using the
+        Hamro Pasal is a simple store(e-commerce application) built using the
         following:
       </p>
       <Container style={{ marginTop: "10rem" }}>
